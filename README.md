@@ -1,5 +1,5 @@
 ![gitHub_banner](https://user-images.githubusercontent.com/62140337/97580040-01b5d680-1a1d-11eb-8774-32afb7bfb1e1.png)
-### Hi there, this is [Md Mostafa Al Mahmud][website] 👋
+### Hi there, this is [Md Mostafa Al Mahmud][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently learning at [Programming Hero][programming]!
