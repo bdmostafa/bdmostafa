@@ -3,11 +3,12 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently learning at [Programming Hero][programming]!
+- 🍥 Full Stack Developer
 - 🌱 Now I’m practicing everything 🤣
-- 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker
-- ⚡ Fun fact: I love to see historical movies  
+- 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker  
 - 🤔 I’m available to work for both project based and long term based
 - 📫 Reach me at: mostafa@mdmostafa.com
+- ⚡ Fun fact: I love to see historical movies
 
 ### Connect with me:
 
