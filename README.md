@@ -2,7 +2,7 @@
 ### Hi there, this is [Md Mostafa Al Mahmud][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## I'm a 😍😍 JavaScript Lover | Problem Solver | Full Stack Developer 😍😍!
-- 🔭 I’m currently learning at [Programming Hero][programming]!
+- 🔭 I’m currently working at [Brain Station 23][website] as an Associate Software Engineer!
 - 🍥 Full Stack Developer
 - 🌱 Now I’m practicing everything 🤣
 - 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker  
@@ -46,7 +46,7 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=bdmostafa&card_width=550)](https://github.com/bdmostafa/bdmostafa)
 
-[programming]: https://www.programming-hero.com/
+[Brain Station 23]: https://brainstation-23.com/
 [website]: https://mdmostafa.com/
 [twitter]: https://twitter.com/md__mostafa
 [youtube]:  https://mdmostafa.com/
