@@ -2,10 +2,10 @@
 ### Hi there, this is [Md Mostafa Al Mahmud][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## I'm a 😍😍 JavaScript Lover | Problem Solver | Full Stack Developer 😍😍!
-- 🔭 I’m currently working at [Brain Station 23][website] as an Associate Software Engineer!
-- 🍥 Full Stack Developer
+- 🔭 I’m currently working at [Brain Station 23][website] as a Software Engineer!
+- 🍥 Full Stack Engineer
 - 🌱 Now I’m practicing everything 🤣
-- 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker  
+- 🥅 2023 Goals: Learn ML & AI, build multiple projects through cloud services  
 - 🤔 I’m available to work for both project based and long term based
 - 📫 Reach me at: mostafa@mdmostafa.com
 - ⚡ Fun fact: I love to see historical movies
