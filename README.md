@@ -1,12 +1,12 @@
 ![gitHub_banner](https://user-images.githubusercontent.com/62140337/97580040-01b5d680-1a1d-11eb-8774-32afb7bfb1e1.png)
 ### Hi there, this is [Md Mostafa Al Mahmud][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## I'm a 😍😍 JavaScript Lover | Problem Solver | Full Stack Developer 😍😍!
-- 🔭 I’m currently working at [Brain Station 23][website] as a Software Engineer!
+## I'm a 😍😍 Cloud Enthusiast | AWS Community Builder | JavaScript Lover | Problem Solver | Full Stack Engineer 😍😍!
+- 🔭 I’m currently working at [CWA](https://cogwheelanalytics.com/) as a Sr. Software Engineer!
 - 🍥 Full Stack Engineer
-- 🌱 Now I’m practicing everything 🤣
-- 🥅 2023 Goals: Learn ML & AI, build multiple projects through cloud services  
-- 🤔 I’m available to work for both project based and long term based
+- 🌱 Now I’m practicing everything. No, I mean I am trying to overcome new technologies 🤣
+- 🥅 2025 Goals: Learn ML & AI and build multiple projects through cloud services  
+- 🤔 I’m available to work for both project-based and long-term based
 - 📫 Reach me at: mostafa@mdmostafa.com
 - ⚡ Fun fact: I love to see historical movies
 
